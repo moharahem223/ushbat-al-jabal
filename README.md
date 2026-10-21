@@ -5,7 +5,7 @@
 
 ## 📦 التحميل المباشر لحزمة المونتاج والتحريك (ZIP)
 - **الرابط المباشر للتحميل (بضغطة واحدة للهاتف):**
-  `https://github.com/moharahem223/latchi-public-hub/releases/download/ushbat-al-jabal-v1/USHBAT_AL_JABAL_SCENES_PACK.zip`
+  `https://github.com/moharahem223/latchi-public-hub/releases/download/ushbat-al-jabal-v1/USHBAT_AL_JABAL_FLOW_PACK.zip`
 
 ---
 
