@@ -1,9 +1,11 @@
 =================================================================
   SCENE 03  —  اكتشاف النبتة النادرة والنظرة السرية
-  التوقيت: 00:20–00:30  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC03_HERB_DISCOVERY.png
+  Timing : 0:20 – 0:30   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC03_HERB_DISCOVERY.png   (upload as START FRAME)
 =================================================================
 
---- COPY FROM HERE ---
+--- COPY FROM HERE -------------------------------------------------
+
 SHOT SC03 — 00:20–00:30 — اكتشاف النبتة النادرة والنظرة السرية
 FRAMES: start = SC03_HERB_DISCOVERY.png | end = same framing with El-Arbi resting his left hand gently beside the dark-emerald rosette plant while Hakim and Kamal finish exchanging a cold knowing look over Sofiane's shoulder.
 CONTINUITY: exact same mossy limestone boulder, wet autumn leaves, misty cedar forest, and natural dark-emerald serrated rosette herb nestled in the rock crevice at bottom center-left; EL-ARBI crouches on one knee on the LEFT holding his wooden walking stick upright in his right hand; on the RIGHT stand all five men — SOFIANE leaning forward holding the closed metal case by its handle, HAKIM in brown leather jacket, NABIL in slate-blue jacket behind, KAMAL in black vest, and RACHID in black beanie on far right.
@@ -13,4 +15,9 @@ CAMERA: static tripod medium-wide shot at eye level, zero camera shake, zero cut
 SOUND: gentle leaf rustle under El-Arbi's fingers, damp forest air, faint breath of excitement from Sofiane; authentic Algerian Darija speech.
 END FRAME: all characters holding positions around the discovered rosette plant, ready to cut directly to SC04_HARVEST_HANDOVER.png.
 NEGATIVE: no music of any kind, no score, no humming, no choir, no glowing fantasy aura on the plant, no floating leaves, no extra characters, no looking into camera, no text, no subtitles, no watermark.
---- COPY TO HERE ---
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC03_HERB_DISCOVERY.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

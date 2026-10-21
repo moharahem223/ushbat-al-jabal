@@ -1,9 +1,11 @@
 =================================================================
   SCENE 04  —  تسليم أوراق النبتة في علبة الحفظ
-  التوقيت: 00:30–00:40  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC04_HARVEST_HANDOVER.png
+  Timing : 0:30 – 0:40   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC04_HARVEST_HANDOVER.png   (upload as START FRAME)
 =================================================================
 
---- COPY FROM HERE ---
+--- COPY FROM HERE -------------------------------------------------
+
 SHOT SC04 — 00:30–00:40 — تسليم أوراق النبتة في علبة الحفظ
 FRAMES: start = SC04_HARVEST_HANDOVER.png | end = same framing after El-Arbi gently settles the green leafy rosette inside the black foam-lined metal box and Hakim begins lowering the hinged lid with a cold slight smirk.
 CONTINUITY: same misty cedar forest clearing beside the mossy boulder; EL-ARBI stands on the LEFT in olive wool jacket with his wooden stick propped beside his leg, holding the freshly cut green rosette with both weathered hands; HAKIM stands foreground RIGHT in brown leather jacket holding open the foam-lined silver-and-black metal case; NABIL (slate-blue jacket), KAMAL (black vest), and RACHID (black beanie, khaki jacket) stand behind them on the right.
@@ -13,4 +15,9 @@ CAMERA: locked-off tripod medium group shot at eye level, zero pan, zero zoom, c
 SOUND: soft brush of plant leaves settling into foam padding, quiet breathing, distant wind in tall mountain trees, faint metallic click as Hakim touches the lid latch at the end.
 END FRAME: plant inside the box as Hakim closes the lid and his expression turns cold, cutting directly into SC05_BETRAYAL_CIRCLE.png.
 NEGATIVE: no music of any kind, no score, no humming, no choir, no sudden violence, no extra hands, no morphing box, no text, no watermark.
---- COPY TO HERE ---
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC04_HARVEST_HANDOVER.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

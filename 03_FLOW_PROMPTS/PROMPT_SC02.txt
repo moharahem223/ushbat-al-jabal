@@ -1,9 +1,11 @@
 =================================================================
   SCENE 02  —  التشكيك ونفاد صبر المجموعة
-  التوقيت: 00:10–00:20  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC02_DOUBT_AND_TENSION.png
+  Timing : 0:10 – 0:20   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC02_DOUBT_AND_TENSION.png   (upload as START FRAME)
 =================================================================
 
---- COPY FROM HERE ---
+--- COPY FROM HERE -------------------------------------------------
+
 SHOT SC02 — 00:10–00:20 — التشكيك ونفاد صبر المجموعة
 FRAMES: start = SC02_DOUBT_AND_TENSION.png | end = same framing with Hakim leaning slightly back in reluctant silence while El-Arbi lowers his pointing right hand slightly toward the mossy rock base ahead.
 CONTINUITY: exact same misty mountain forest clearing beside the large mossy boulder and wet brown leaves; EL-ARBI stays strictly on the LEFT holding his carved wooden stick vertically in his left hand; all FIVE men stay strictly on the RIGHT — HAKIM front-left of the group in brown leather jacket, KAMAL behind with arms folded in black vest, SOFIANE holding the closed silver-and-black metal specimen box in both hands, NABIL in slate-blue rain jacket, RACHID on far right in black beanie and khaki jacket.
@@ -13,4 +15,9 @@ CAMERA: completely static locked-off tripod medium-wide shot at eye level, zero 
 SOUND: diegetic forest wind, rustling damp leaves underfoot, quiet tense breathing; dialogue crisp and natural in Algerian Darija.
 END FRAME: El-Arbi poised on left beside the boulder and the five men turning attention toward the rock base, bridging cleanly into SC03_HERB_DISCOVERY.png.
 NEGATIVE: no music of any kind, no score, no humming, no choir, no rear camera, no eye contact with lens, no opening the metal box early, no extra fingers, no extra people, no text, no watermark.
---- COPY TO HERE ---
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC02_DOUBT_AND_TENSION.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================

@@ -1,9 +1,11 @@
 =================================================================
   SCENE 06  —  ترك الخبير وحيداً وسط الضباب
-  التوقيت: 00:50–01:00  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC06_ABANDONED_IN_MIST.png
+  Timing : 0:50 – 1:00   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC06_ABANDONED_IN_MIST.png   (upload as START FRAME)
 =================================================================
 
---- COPY FROM HERE ---
+--- COPY FROM HERE -------------------------------------------------
+
 SHOT SC06 — 00:50–01:00 — ترك الخبير وحيداً وسط الضباب
 FRAMES: start = SC06_ABANDONED_IN_MIST.png | end = same framing after the five men take several steps further up into the thick forest mist on the right while El-Arbi remains standing still and dignified in the left foreground beside his fallen stick.
 CONTINUITY: exact same mossy boulder and wet leaf-covered forest floor; foreground LEFT shows EL-ARBI standing upright alone in olive wool jacket with empty hands at his sides and his carved wooden walking stick lying on the brown leaves beside his boots; background RIGHT shows all five men retreating together up the misty trail — SOFIANE carrying the closed metal specimen box, HAKIM behind the boulder edge, KAMAL in black vest, RACHID in black beanie and khaki jacket, and NABIL in slate-blue jacket looking back hesitantly.
@@ -13,4 +15,9 @@ CAMERA: completely static locked-off tripod wide-medium front shot, zero pan, ze
 SOUND: footsteps crunching farther and fainter on wet leaves, cold wind sighing through misty cedars, El-Arbi's single slow deep breath in foreground.
 END FRAME: El-Arbi left completely alone beside the mossy boulder as the mist swallows the trail behind, cutting cleanly to SC07_SECRET_ROOT_ENDING.png.
 NEGATIVE: no music of any kind, no score, no humming, no choir, no running chase, no fighting, no extra characters, no text, no subtitles, no watermark.
---- COPY TO HERE ---
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC06_ABANDONED_IN_MIST.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================
