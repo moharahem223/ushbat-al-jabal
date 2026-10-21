@@ -1,9 +1,11 @@
 =================================================================
   SCENE 07  —  المفاجأة الختامية — الجذر الحقيقي في الجيب
-  التوقيت: 01:00–01:10  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC07_SECRET_ROOT_ENDING.png
+  Timing : 1:00 – 1:10   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC07_SECRET_ROOT_ENDING.png   (upload as START FRAME)
 =================================================================
 
---- COPY FROM HERE ---
+--- COPY FROM HERE -------------------------------------------------
+
 SHOT SC07 — 01:00–01:10 — المفاجأة الختامية: الجذر الحقيقي في الجيب
 FRAMES: start = SC07_SECRET_ROOT_ENDING.png | end = same medium framing as El-Arbi gently closes the beige linen cloth pouch carefully around the golden medicinal root with both weathered hands, holding a calm, wise, resolute expression before a clean hard cut to black.
 CONTINUITY: quiet misty cedar forest background with no other people anywhere in frame; EL-ARBI (58, grey beard, olive wool field jacket, beige shirt, light brown scarf) stands alone center-left in waist-up three-quarter view with his carved wooden walking stick tucked securely under his right arm, holding open the small weathered beige linen cloth pouch with his right hand while cradling the real intact golden-brown mountain root bulb with fine rootlets in his left hand.
@@ -13,4 +15,9 @@ CAMERA: locked-off tripod medium waist-up shot (head under one-third of frame), 
 SOUND: hushed misty mountain forest air, faint rustle of rough linen cloth between weathered fingers, El-Arbi's calm low resonant voice, last 0.8s nearly silent wind before hard cut to black.
 END FRAME: El-Arbi holding the closed linen pouch safely against his chest in silent wisdom — hard cut to black.
 NEGATIVE: no music of any kind, no score, no humming, no choir, no glowing magic around the root, no looking or smiling into camera, no extra people, no text, no subtitles, no watermark.
---- COPY TO HERE ---
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC07_SECRET_ROOT_ENDING.png في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. لا تعدّل على الكاميرا (ثابتة دائماً).
+=================================================================
