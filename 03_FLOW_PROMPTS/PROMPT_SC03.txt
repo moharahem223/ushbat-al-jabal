@@ -1,0 +1,16 @@
+=================================================================
+  SCENE 03  —  اكتشاف النبتة النادرة والنظرة السرية
+  التوقيت: 00:20–00:30  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC03_HERB_DISCOVERY.png
+=================================================================
+
+--- COPY FROM HERE ---
+SHOT SC03 — 00:20–00:30 — اكتشاف النبتة النادرة والنظرة السرية
+FRAMES: start = SC03_HERB_DISCOVERY.png | end = same framing with El-Arbi resting his left hand gently beside the dark-emerald rosette plant while Hakim and Kamal finish exchanging a cold knowing look over Sofiane's shoulder.
+CONTINUITY: exact same mossy limestone boulder, wet autumn leaves, misty cedar forest, and natural dark-emerald serrated rosette herb nestled in the rock crevice at bottom center-left; EL-ARBI crouches on one knee on the LEFT holding his wooden walking stick upright in his right hand; on the RIGHT stand all five men — SOFIANE leaning forward holding the closed metal case by its handle, HAKIM in brown leather jacket, NABIL in slate-blue jacket behind, KAMAL in black vest, and RACHID in black beanie on far right.
+ACTION AND TIMING: 0.0–5.5s El-Arbi stays crouched on the left keeping his right hand fixed on his vertical wooden stick while his left hand gently parts a wet fern leaf beside the dark-emerald rosette herb without uprooting it yet, speaking quietly; 5.5–8.0s Sofiane leans slightly closer staring at the herb in amazement and speaks excitedly while tightening his grip on the closed metal box handle; 8.0–10.0s above Sofiane, Hakim turns his head slightly toward Kamal and exchanges a cold, silent, calculating nod while El-Arbi looks down at the plant unaware.
+DIALOGUE: العربي — «هَا هِيَ... عِشْبَة الجْبَلْ النَّادْرَة، مَا تَنْبَتْ غِيرْ مَرَّة فِي العَامْ.» (00:02–00:06) | سفيان — «شُوفْ يَا حَكِيمْ... وْاللّٰهْ غِيرْ هِيَ بْذَاتْهَا!» (00:07–00:09). Keep Hakim, Kamal, Nabil, and Rachid silent with closed mouths.
+CAMERA: static tripod medium-wide shot at eye level, zero camera shake, zero cuts, natural shallow forest depth of field.
+SOUND: gentle leaf rustle under El-Arbi's fingers, damp forest air, faint breath of excitement from Sofiane; authentic Algerian Darija speech.
+END FRAME: all characters holding positions around the discovered rosette plant, ready to cut directly to SC04_HARVEST_HANDOVER.png.
+NEGATIVE: no music of any kind, no score, no humming, no choir, no glowing fantasy aura on the plant, no floating leaves, no extra characters, no looking into camera, no text, no subtitles, no watermark.
+--- COPY TO HERE ---

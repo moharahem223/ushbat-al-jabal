@@ -1,0 +1,16 @@
+=================================================================
+  SCENE 04  —  تسليم أوراق النبتة في علبة الحفظ
+  التوقيت: 00:30–00:40  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC04_HARVEST_HANDOVER.png
+=================================================================
+
+--- COPY FROM HERE ---
+SHOT SC04 — 00:30–00:40 — تسليم أوراق النبتة في علبة الحفظ
+FRAMES: start = SC04_HARVEST_HANDOVER.png | end = same framing after El-Arbi gently settles the green leafy rosette inside the black foam-lined metal box and Hakim begins lowering the hinged lid with a cold slight smirk.
+CONTINUITY: same misty cedar forest clearing beside the mossy boulder; EL-ARBI stands on the LEFT in olive wool jacket with his wooden stick propped beside his leg, holding the freshly cut green rosette with both weathered hands; HAKIM stands foreground RIGHT in brown leather jacket holding open the foam-lined silver-and-black metal case; NABIL (slate-blue jacket), KAMAL (black vest), and RACHID (black beanie, khaki jacket) stand behind them on the right.
+ACTION AND TIMING: 0.0–5.5s El-Arbi carefully lowers the green leafy rosette with both steady hands into the dark padded foam interior of the open metal case held firmly by Hakim, speaking earnestly with honest trust; 5.5–8.0s El-Arbi withdraws his empty hands slowly back toward his wooden walking stick while Nabil glances down uneasily behind the box; 8.0–10.0s Hakim's faint smile hardens into a cold calculating expression as his right hand reaches up to close the metal lid over the plant.
+DIALOGUE: العربي — «حَافْظُو عْلِيهَا مْلِيحْ... هَادِي تْعَالَجْ النَّاسْ مَاشِي لِلبِيعْ الرّْخِيصْ.» (00:02–00:07). Only El-Arbi speaks; Hakim, Nabil, Kamal, and Rachid remain completely silent.
+CAMERA: locked-off tripod medium group shot at eye level, zero pan, zero zoom, candid natural performance, faces and hands clearly visible.
+SOUND: soft brush of plant leaves settling into foam padding, quiet breathing, distant wind in tall mountain trees, faint metallic click as Hakim touches the lid latch at the end.
+END FRAME: plant inside the box as Hakim closes the lid and his expression turns cold, cutting directly into SC05_BETRAYAL_CIRCLE.png.
+NEGATIVE: no music of any kind, no score, no humming, no choir, no sudden violence, no extra hands, no morphing box, no text, no watermark.
+--- COPY TO HERE ---

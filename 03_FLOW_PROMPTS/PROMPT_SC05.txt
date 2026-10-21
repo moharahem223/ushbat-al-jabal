@@ -1,0 +1,16 @@
+=================================================================
+  SCENE 05  —  انقلاب العصابة ولحظة الغدر
+  التوقيت: 00:40–00:50  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC05_BETRAYAL_CIRCLE.png
+=================================================================
+
+--- COPY FROM HERE ---
+SHOT SC05 — 00:40–00:50 — انقلاب العصابة ولحظة الغدر
+FRAMES: start = SC05_BETRAYAL_CIRCLE.png | end = same framing with Hakim keeping his open right palm raised firmly blocking El-Arbi, Kamal stepping slightly back clutching the closed metal case tightly, and El-Arbi frozen in wounded disbelief on the left.
+CONTINUITY: exact same misty cedar forest boulder glade; EL-ARBI stands alone on the LEFT holding his carved wooden stick vertically with both hands; on the RIGHT stand HAKIM stepping onto the rock edge in brown leather jacket with his right arm extended and open palm raised firmly toward El-Arbi, NABIL behind looking down guiltily in slate-blue jacket, KAMAL beside them in black vest holding the closed latched silver-and-black metal specimen box, and RACHID on far right in black beanie and khaki jacket.
+ACTION AND TIMING: 0.0–5.0s Hakim holds his right arm extended with open palm steady at chest height (do not swap hands or wave wildly) blocking El-Arbi and speaks in a cold, hard voice while Kamal grips the closed metal box against his chest; 5.0–8.5s El-Arbi tightens both weathered hands around his wooden walking stick without raising it aggressively, looking directly at Hakim in stunned hurt disbelief as he speaks; 8.5–10.0s Nabil lowers his head further avoiding eye contact while Hakim glares coldly without flinching.
+DIALOGUE: حكيم — «خْدَمْتَكْ خْلَاصَتْ هْنَا يَا العَرْبِي... الفَايْدَة هَادِي كْبِيرَة عْلِيكْ.» (00:01–00:05) | العربي — «بَعْدْ مَا وَصَّلْتْكُمْ بْأَمَانْ... هَكْذَا تْغَدْرُونِي؟» (00:06–00:09). Keep Kamal, Nabil, and Rachid silent with mouths closed.
+CAMERA: static locked-off tripod medium-wide shot at eye level, zero camera shake, zero cuts, restrained realistic tension.
+SOUND: damp forest wind rising slightly through tree branches, heavy boot shift on wet leaves, tense quiet breathing; clear Algerian Darija dialogue.
+END FRAME: El-Arbi isolated on the left facing the cold wall of men holding the locked box on the right, cutting directly to SC06_ABANDONED_IN_MIST.png.
+NEGATIVE: no music of any kind, no score, no humming, no choir, no punching, no weapons, no knives, no blood, no theatrical villain laughter, no text, no subtitles, no watermark.
+--- COPY TO HERE ---

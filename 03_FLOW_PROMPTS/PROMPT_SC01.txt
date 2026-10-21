@@ -1,0 +1,16 @@
+=================================================================
+  SCENE 01  —  المسير في قلب الغابة الضبابية
+  التوقيت: 00:00–00:10  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC01_FOREST_TRAIL.png
+=================================================================
+
+--- COPY FROM HERE ---
+SHOT SC01 — 00:00–00:10 — المسير في قلب الغابة الضبابية
+FRAMES: start = SC01_FOREST_TRAIL.png | end = same framing after one slow cautious step forward as El-Arbi lowers his right hand slightly from the mossy tree bark and looks ahead down the misty slope while the five men take one quiet step behind him.
+CONTINUITY: same foggy northern Algerian mountain cedar and oak forest with wet autumn leaves on the ground and overcast daylight from the upper left; same six men with zero extra people; EL-ARBI (58, grey beard, olive wool field jacket, beige shirt, light brown scarf, brown trousers, carved wooden walking stick in left hand) stays foreground LEFT; HAKIM (brown leather jacket), KAMAL (black sleeveless padded vest, thick black beard), SOFIANE (navy hoodie carrying closed black-and-silver metal specimen box), NABIL (zipped slate-blue rain jacket), and RACHID (black knit beanie, tan-khaki field jacket) stay behind on the RIGHT in exact order.
+ACTION AND TIMING: 0.0–3.0s El-Arbi feels the damp moss on the ancient cedar trunk with his right hand while holding his wooden walking stick steady in his left hand, as the five men behind right pause on the wet leaves watching closely; 3.0–7.5s El-Arbi turns his head slightly while still facing front-left (never turning his back) and speaks quietly in Algerian Darija warning them about the mountain fog; 7.5–10.0s El-Arbi glances forward down the misty forest path, takes one slow grounded half-step forward planted on his walking stick, and the five men follow half a step behind.
+DIALOGUE: العربي — «تَبّْعُونِي بْلاَ حِسّْ... الضّْبَابْ هْنَا يْضَيَّعْ اللِّي مَا يَعْرَفْشْ الجْبَلْ.» (00:02–00:07). Only El-Arbi moves his lips; all five men behind him keep their mouths closed.
+CAMERA: completely static locked-off tripod at eye level, wide front three-quarter composition, max 2% ultra-slow push-in, no cuts, no pans, no handheld shake, zero eye contact with the camera lens.
+SOUND: diegetic mountain forest atmosphere only — cold wind through tall cedar needles, boots crunching softly on wet dead leaves, faint distant crow echo in the mist; clear close voice of El-Arbi.
+END FRAME: all six men stopped cleanly near the mossy boulder clearing, ready to cut directly to SC02_DOUBT_AND_TENSION.png.
+NEGATIVE: no music of any kind, no score, no humming, no choir, no rear camera view, no direct look into lens, no swapping right and left hands, no extra or missing people, no wardrobe changes, no subtitles, no text, no watermark.
+--- COPY TO HERE ---

@@ -1,0 +1,16 @@
+=================================================================
+  SCENE 02  —  التشكيك ونفاد صبر المجموعة
+  التوقيت: 00:10–00:20  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC02_DOUBT_AND_TENSION.png
+=================================================================
+
+--- COPY FROM HERE ---
+SHOT SC02 — 00:10–00:20 — التشكيك ونفاد صبر المجموعة
+FRAMES: start = SC02_DOUBT_AND_TENSION.png | end = same framing with Hakim leaning slightly back in reluctant silence while El-Arbi lowers his pointing right hand slightly toward the mossy rock base ahead.
+CONTINUITY: exact same misty mountain forest clearing beside the large mossy boulder and wet brown leaves; EL-ARBI stays strictly on the LEFT holding his carved wooden stick vertically in his left hand; all FIVE men stay strictly on the RIGHT — HAKIM front-left of the group in brown leather jacket, KAMAL behind with arms folded in black vest, SOFIANE holding the closed silver-and-black metal specimen box in both hands, NABIL in slate-blue rain jacket, RACHID on far right in black beanie and khaki jacket.
+ACTION AND TIMING: 0.0–4.5s Hakim shifts his weight impatiently on the damp leaves and speaks sharply to El-Arbi while Kamal keeps his arms folded and Sofiane holds the closed metal box steady without opening it; 4.5–8.5s El-Arbi remains calm, keeps his left hand fixed gripping the top of his wooden walking stick, and extends his right hand pointing down toward the mossy limestone boulder behind Hakim as he answers firmly; 8.5–10.0s Hakim glances sideways at the mossy boulder behind him as tension settles silently across the six men.
+DIALOGUE: حكيم — «ثْلَاثْ سْوَانَعْ وْحْنَا نْدُورُو يَا عَمِّي العَرْبِي... وِينْ رَاهِي هَادْ العِشْبَة؟» (00:01–00:05) | العربي — «صْبَرْ شْوِيَّة... رَانَا وْصَلْنَا لِلصَّخْرَة البَيْضَا.» (00:06–00:09). Only the active speaker moves his lips; the other four men remain completely silent with mouths closed.
+CAMERA: completely static locked-off tripod medium-wide shot at eye level, zero pan, zero tilt, zero zoom, zero cuts, all six faces and hands clearly inside frame.
+SOUND: diegetic forest wind, rustling damp leaves underfoot, quiet tense breathing; dialogue crisp and natural in Algerian Darija.
+END FRAME: El-Arbi poised on left beside the boulder and the five men turning attention toward the rock base, bridging cleanly into SC03_HERB_DISCOVERY.png.
+NEGATIVE: no music of any kind, no score, no humming, no choir, no rear camera, no eye contact with lens, no opening the metal box early, no extra fingers, no extra people, no text, no watermark.
+--- COPY TO HERE ---

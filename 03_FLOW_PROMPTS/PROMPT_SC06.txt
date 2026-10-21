@@ -1,0 +1,16 @@
+=================================================================
+  SCENE 06  —  ترك الخبير وحيداً وسط الضباب
+  التوقيت: 00:50–01:00  |  المقاس: 9:16 (1080×1920)  |  الصورة: SC06_ABANDONED_IN_MIST.png
+=================================================================
+
+--- COPY FROM HERE ---
+SHOT SC06 — 00:50–01:00 — ترك الخبير وحيداً وسط الضباب
+FRAMES: start = SC06_ABANDONED_IN_MIST.png | end = same framing after the five men take several steps further up into the thick forest mist on the right while El-Arbi remains standing still and dignified in the left foreground beside his fallen stick.
+CONTINUITY: exact same mossy boulder and wet leaf-covered forest floor; foreground LEFT shows EL-ARBI standing upright alone in olive wool jacket with empty hands at his sides and his carved wooden walking stick lying on the brown leaves beside his boots; background RIGHT shows all five men retreating together up the misty trail — SOFIANE carrying the closed metal specimen box, HAKIM behind the boulder edge, KAMAL in black vest, RACHID in black beanie and khaki jacket, and NABIL in slate-blue jacket looking back hesitantly.
+ACTION AND TIMING: 0.0–5.0s El-Arbi stands motionless in foreground left watching silently with wounded dignity while Kamal turns his head slightly toward the group in background right and speaks coldly; 5.0–8.5s all five men turn and walk slowly deeper away up the misty forest trail on the right (Sofiane cradling the closed metal box, Nabil casting one last guilty glance over his shoulder before following); 8.5–10.0s thick grey mountain mist partially softens the retreating figures in the distance as El-Arbi slowly lowers his gaze toward his fallen walking stick at his feet.
+DIALOGUE: كمال — «امْشُو نْخَلُّوهْ... مَا عَنْدُو مَا يْدِيرْ وَحْدُو فِي هَادْ الغَابَة.» (00:02–00:06). El-Arbi and the other four men remain completely silent.
+CAMERA: completely static locked-off tripod wide-medium front shot, zero pan, zero zoom, zero eye contact with camera.
+SOUND: footsteps crunching farther and fainter on wet leaves, cold wind sighing through misty cedars, El-Arbi's single slow deep breath in foreground.
+END FRAME: El-Arbi left completely alone beside the mossy boulder as the mist swallows the trail behind, cutting cleanly to SC07_SECRET_ROOT_ENDING.png.
+NEGATIVE: no music of any kind, no score, no humming, no choir, no running chase, no fighting, no extra characters, no text, no subtitles, no watermark.
+--- COPY TO HERE ---
